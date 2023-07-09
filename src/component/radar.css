@@ -1,0 +1,9 @@
+.radar-chart-container {
+  width: 500px;
+  height: 500px;
+}
+
+.arc {
+  stroke: #fff; /* Color of the arc stroke */
+  stroke-width: 1px; /* Width of the arc stroke */
+}
